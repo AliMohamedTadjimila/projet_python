@@ -1,0 +1,15 @@
+[2025-05-29 12:29:37] | Fenetre active: script.py - projet python - Visual Studio Code | Utilisateur : hp |App : Code.exe
+Duree: 5 secondes!
+[2025-05-29 12:29:42] | Fenetre active: *exercice 1 – Bloc-notes | Utilisateur : hp |App : Notepad.exe
+Duree: 6 secondes!
+[2025-05-29 12:29:49] | Fenetre active: WhatsApp | Utilisateur : hp |App : ApplicationFrameHost.exe
+Duree: 0 secondes!
+[2025-05-29 12:29:50] | Fenetre active: *exercice 1 – Bloc-notes | Utilisateur : hp |App : Notepad.exe
+Duree: 1 secondes!
+[2025-05-29 12:29:51] | Fenetre active: script.py - projet python - Visual Studio Code | Utilisateur : hp |App : Code.exe
+Duree: 3 secondes!
+[2025-05-29 12:29:54] | Fenetre active: Spotify Free | Utilisateur : hp |App : Spotify.exe
+Duree: 4 secondes!
+[2025-05-29 12:29:59] | Fenetre active: script.py - projet python - Visual Studio Code | Utilisateur : hp |App : Code.exe
+Duree: 3 secondes!
+[2025-05-29 12:30:03] | Fenetre active: *exercice 1 – Bloc-notes | Utilisateur : hp |App : Notepad.exe
